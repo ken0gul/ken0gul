@@ -14,7 +14,6 @@
       <li>HTML</li>
       <li>CSS</li>
       <li>Liquid</li>
-     
     </ul>
 
 </div>
@@ -30,9 +29,7 @@
       <li>Hydrogen</li>
       <li>Thymeleaf</li>
       <li> Hibernate</li>
-     
     </ul>
-
   </div>
   
     <div>
