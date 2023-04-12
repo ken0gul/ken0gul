@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I am a Full Stack Java/React Developer and A Java Instructor
+
+## Technologies 
+
+
+
 <!--
 **ken0gul/ken0gul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
