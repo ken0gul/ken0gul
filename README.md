@@ -4,7 +4,39 @@
 
 ## Technologies 
 
-- <img src="/react.svg" alt="alt text" width="100" height="100" style="color:blue;">
+### Languages
+
+- Java
+- JavaScript
+- HTML
+- CSS
+- Liquid
+
+
+### Frameworks/Libraries
+
+- React
+- Redux/React-Redux
+- Spring Framework
+- TailwindCSS
+- Bootstrap
+- Hydrogen
+- Thymeleaf
+- Hibernate
+
+### Databases
+- MySQL 
+- Firebase
+
+### Other Tools
+- MAVEN
+- REST
+- Git
+- GitHub
+- Linux/Unix
+- Windows
+- Bash
+
 
 
 <!--
