@@ -3,7 +3,7 @@
 - I am a Full Stack Java/React Developer and A Java Instructor
 
 ## Technologies 
-- ![React](icons/react.svg) React
+- ![React](/react.svg) React
 
 
 <!--
