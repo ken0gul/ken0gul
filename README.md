@@ -3,7 +3,7 @@
 - I am a Full Stack Java/React Developer and A Java Instructor
 
 ## Technologies 
-<div>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
   
   
   <div>
