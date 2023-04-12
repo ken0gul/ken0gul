@@ -15,7 +15,6 @@
       <li>CSS</li>
       <li>Liquid</li>
     </ul>
-
 </div>
   
   <div>
@@ -37,8 +36,6 @@
     <ul>
       <li>MySQL</li>
       <li>Firebase</li>
-
-     
     </ul>
 
   </div>
@@ -52,11 +49,8 @@
       <li>GitHub</li>
       <li> Linux/Unix</li>
       <li>Windows</li>
-      <li>Bash</li>
-     
-     
+      <li>Bash</li>  
     </ul>
-
   </div>
 
 
