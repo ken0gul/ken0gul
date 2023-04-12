@@ -30,7 +30,6 @@
       <li> Hibernate</li>
     </ul>
   </div>
-  
     <div>
   <h3>Databases</h3>
     <ul>
