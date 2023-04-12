@@ -3,7 +3,8 @@
 - I am a Full Stack Java/React Developer and A Java Instructor
 
 ## Technologies 
-- ![React](/react.svg) React
+
+- <img src="/react.png" alt="alt text" width="100" height="100">
 
 
 <!--
