@@ -28,6 +28,8 @@
       <li>Spring Framework</li>
       <li>TailwindCSS</li>
       <li> Bootstrap</li>
+      <li>Jest</li>
+      <li>Enzyme</li>
       <li>Hydrogen</li>
       <li>Thymeleaf</li>
       <li> Hibernate</li>
@@ -38,6 +40,7 @@
     <ul>
       <li>MySQL</li>
       <li>Firebase</li>
+      <li>MongoDB</li>
     </ul>
 
   </div>
@@ -49,6 +52,8 @@
       <li>REST</li>
       <li>Git</li>
       <li>GitHub</li>
+      <li>BitBucket</li>
+      <li>Jira</li>
       <li> Linux/Unix</li>
       <li>Windows</li>
       <li>Bash</li>  
