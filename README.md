@@ -11,6 +11,7 @@
     <ul>
       <li>Java</li>
       <li>JavaScript</li>
+      <li>NodeJS</li>
       <li>HTML</li>
       <li>CSS</li>
       <li>Liquid</li>
@@ -22,6 +23,8 @@
     <ul>
       <li>React</li>
       <li>Redux/React-Redux</li>
+      <li>ExpressJS</li>
+      <li>TypeScript</li>
       <li>Spring Framework</li>
       <li>TailwindCSS</li>
       <li> Bootstrap</li>
