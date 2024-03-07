@@ -22,7 +22,9 @@
   <h3>Frameworks/Libraries</h3>
     <ul>
       <li>React</li>
+      <li>Angular</li>
       <li>Redux/React-Redux</li>
+      <li>RxJs</li>
       <li>ExpressJS</li>
       <li>TypeScript</li>
       <li>Spring Framework</li>
