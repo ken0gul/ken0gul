@@ -43,6 +43,7 @@
   <h3>Databases</h3>
     <ul>
       <li>MySQL</li>
+      <li>MSSQL</li>
       <li>Firebase</li>
       <li>MongoDB</li>
     </ul>
@@ -53,6 +54,7 @@
   <h3>Other Tools</h3>
     <ul>
       <li>MAVEN</li>
+      <li>NuGet</li>
       <li>REST</li>
       <li>Git</li>
       <li>GitHub</li>
