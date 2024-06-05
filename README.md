@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a Full Stack Java/React Developer and A Java Instructor
+- I am a Full Stack Developer and A Coding Instructor
 
 ## Technologies 
 <div style="display:grid; grid-template-columns:repeat(3, 1fr); grid-gap: 20px;">
@@ -10,6 +10,7 @@
     <h3>Languages</h3>
     <ul>
       <li>Java</li>
+      <li>C#</li>
       <li>JavaScript</li>
       <li>NodeJS</li>
       <li>HTML</li>
@@ -23,6 +24,7 @@
     <ul>
       <li>React</li>
       <li>Angular</li>
+      <li>ASP.NET Core</li>
       <li>Redux/React-Redux</li>
       <li>RxJs</li>
       <li>ExpressJS</li>
