@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I am a Full Stack Developer and A Coding Instructor
+- As a seasoned developer, I am actively seeking a position where I can apply my robust problem-solving skills
+and unwavering passion for learning and personal growth.
 
 ## Technologies 
 <div style="display:grid; grid-template-columns:repeat(3, 1fr); grid-gap: 20px;">
